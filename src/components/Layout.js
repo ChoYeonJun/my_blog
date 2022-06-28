@@ -52,7 +52,7 @@ function Layout({ pageTitle, children }) {
         {children}
       </main>
 
-      <div>Jun 하다</div>
+      <div>Jun</div>
     </div>
   );
 }
